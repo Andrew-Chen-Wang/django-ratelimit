@@ -48,6 +48,9 @@ Import:
    :arg block:
        *False* Whether to block the request instead of annotating.
 
+   :arg message:
+       *None* A message to attach to the throttled exception
+
 
 HTTP Methods
 ------------
